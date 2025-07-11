@@ -1,0 +1,5 @@
+selenium
+celery
+undetected-chromedriver
+fastapi
+yagmail
